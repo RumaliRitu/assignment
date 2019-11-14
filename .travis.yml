@@ -4,6 +4,9 @@ node_js:
 
 cache: npm
 
+env:
+  - NOW_TOKEN=nOl4cEOkLBzaDFujwE5c12CQ
+
 install:
   - npm install
 
